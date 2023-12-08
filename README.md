@@ -2,7 +2,7 @@
 This repository contains the design and implementation of a product page showcasing a minimalist e-commerce website.
 
 ## Deployed Online
-- Link to the project - https://udaykiran6463.github.io/Modern-Ecommerce-/
+- Link to the project - [Morden-E-commerce](https://udaykiran6463.github.io/Modern-Ecommerce/)
 
 
 # Telford Kursi Product Page -- A Modern Ecommerce
